@@ -1,0 +1,581 @@
+E:\PROJECT\MovieProject\MovieProject\bin\roslyn\csc.exe
+E:\PROJECT\MovieProject\MovieProject\bin\roslyn\csc.exe.config
+E:\PROJECT\MovieProject\MovieProject\bin\roslyn\csc.rsp
+E:\PROJECT\MovieProject\MovieProject\bin\roslyn\csi.exe
+E:\PROJECT\MovieProject\MovieProject\bin\roslyn\csi.rsp
+E:\PROJECT\MovieProject\MovieProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PROJECT\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROJECT\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\PROJECT\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PROJECT\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\PROJECT\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PROJECT\MovieProject\MovieProject\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PROJECT\MovieProject\MovieProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\PROJECT\MovieProject\MovieProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\PROJECT\MovieProject\MovieProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PROJECT\MovieProject\MovieProject\bin\roslyn\System.AppContext.dll
+E:\PROJECT\MovieProject\MovieProject\bin\roslyn\System.Collections.Immutable.dll
+E:\PROJECT\MovieProject\MovieProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\PROJECT\MovieProject\MovieProject\bin\roslyn\System.IO.FileSystem.dll
+E:\PROJECT\MovieProject\MovieProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\PROJECT\MovieProject\MovieProject\bin\roslyn\System.Reflection.Metadata.dll
+E:\PROJECT\MovieProject\MovieProject\bin\roslyn\vbc.exe
+E:\PROJECT\MovieProject\MovieProject\bin\roslyn\vbc.exe.config
+E:\PROJECT\MovieProject\MovieProject\bin\roslyn\vbc.rsp
+E:\PROJECT\MovieProject\MovieProject\bin\roslyn\VBCSCompiler.exe
+E:\PROJECT\MovieProject\MovieProject\bin\roslyn\VBCSCompiler.exe.config
+E:\PROJECT\MovieProject\MovieProject\bin\MovieProject.dll.config
+E:\PROJECT\MovieProject\MovieProject\bin\MovieProject.dll
+E:\PROJECT\MovieProject\MovieProject\bin\MovieProject.pdb
+E:\PROJECT\MovieProject\MovieProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PROJECT\MovieProject\MovieProject\bin\Microsoft.Web.Infrastructure.dll
+E:\PROJECT\MovieProject\MovieProject\bin\Models.dll
+E:\PROJECT\MovieProject\MovieProject\bin\System.Web.Helpers.dll
+E:\PROJECT\MovieProject\MovieProject\bin\System.Web.Mvc.dll
+E:\PROJECT\MovieProject\MovieProject\bin\System.Web.Razor.dll
+E:\PROJECT\MovieProject\MovieProject\bin\System.Web.Webpages.Deployment.dll
+E:\PROJECT\MovieProject\MovieProject\bin\System.Web.Webpages.dll
+E:\PROJECT\MovieProject\MovieProject\bin\System.Web.Webpages.Razor.dll
+E:\PROJECT\MovieProject\MovieProject\bin\EntityFramework.dll
+E:\PROJECT\MovieProject\MovieProject\bin\Models.pdb
+E:\PROJECT\MovieProject\MovieProject\bin\Models.dll.config
+E:\PROJECT\MovieProject\MovieProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PROJECT\MovieProject\MovieProject\bin\System.Web.Razor.xml
+E:\PROJECT\MovieProject\MovieProject\bin\System.Web.Webpages.xml
+E:\PROJECT\MovieProject\MovieProject\bin\System.Web.Webpages.Deployment.xml
+E:\PROJECT\MovieProject\MovieProject\bin\System.Web.Webpages.Razor.xml
+E:\PROJECT\MovieProject\MovieProject\bin\System.Web.Helpers.xml
+E:\PROJECT\MovieProject\MovieProject\bin\System.Web.Mvc.xml
+E:\PROJECT\MovieProject\MovieProject\bin\EntityFramework.xml
+E:\PROJECT\MovieProject\MovieProject\obj\Debug\MovieProject.csprojResolveAssemblyReference.cache
+E:\PROJECT\MovieProject\MovieProject\obj\Debug\MovieProject.dll
+E:\PROJECT\MovieProject\MovieProject\obj\Debug\MovieProject.pdb
+E:\PROJECT\MovieProject\MovieProject\bin\PagedList.dll
+E:\PROJECT\MovieProject\MovieProject\bin\PagedList.Mvc.dll
+E:\PROJECT\MovieProject\MovieProject\bin\PagedList.xml
+E:\PROJECT\MovieProject\MovieProject\bin\PagedList.Mvc.xml
+E:\PROJECT\MovieProject\MovieProject\bin\CKFinder.dll
+E:\PROJECT\MovieProject\MovieProject\bin\EntityFramework.SqlServer.dll
+E:\PROJECT\MovieProject\MovieProject\bin\EntityFramework.SqlServer.xml
+E:\PROJECT\MovieProject\MovieProject\bin\Newtonsoft.Json.dll
+E:\PROJECT\MovieProject\MovieProject\bin\Newtonsoft.Json.xml
+E:\PROJECT\MovieProject\MovieProject\bin\System.Linq.Dynamic.dll
+E:\PROJECT\MovieProject\MovieProject\bin\BotDetect.dll
+E:\PROJECT\MovieProject\MovieProject\bin\BotDetect.Web.Mvc.dll
+E:\PROJECT\MovieProject\MovieProject\bin\System.Data.SQLite.dll
+E:\PROJECT\MovieProject\MovieProject\bin\System.Data.SQLite.xml
+E:\PROJECT\MovieProject\MovieProject\bin\System.Data.SQLite.dll.config
+E:\PROJECT\MovieProject\MovieProject\bin\Facebook.dll
+E:\PROJECT\MovieProject\MovieProject\bin\Facebook.xml
+E:\PROJECT\MovieProject\MovieProject\bin\Common.dll
+E:\PROJECT\MovieProject\MovieProject\bin\Common.pdb
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\roslyn\csc.exe
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\roslyn\csc.exe.config
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\roslyn\csc.rsp
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\roslyn\csi.exe
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\roslyn\csi.rsp
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\roslyn\System.AppContext.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\roslyn\System.Collections.Immutable.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\roslyn\System.IO.FileSystem.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\roslyn\System.Reflection.Metadata.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\roslyn\vbc.exe
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\roslyn\vbc.exe.config
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\roslyn\vbc.rsp
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\roslyn\VBCSCompiler.exe
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\roslyn\VBCSCompiler.exe.config
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\MovieProject.dll.config
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\MovieProject.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\MovieProject.pdb
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\BotDetect.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\BotDetect.Web.Mvc.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\CKFinder.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\Common.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\EntityFramework.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\EntityFramework.SqlServer.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\Facebook.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\Microsoft.Web.Infrastructure.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\Models.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\Newtonsoft.Json.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\PagedList.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\PagedList.Mvc.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\System.Data.SQLite.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\System.Linq.Dynamic.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\System.Web.Helpers.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\System.Web.Mvc.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\System.Web.Razor.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\System.Web.Webpages.Deployment.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\System.Web.Webpages.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\System.Web.Webpages.Razor.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\Common.pdb
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\Models.pdb
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\Models.dll.config
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\EntityFramework.xml
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\EntityFramework.SqlServer.xml
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\Facebook.xml
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\Newtonsoft.Json.xml
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\PagedList.xml
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\PagedList.Mvc.xml
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\System.Data.SQLite.xml
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\System.Data.SQLite.dll.config
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\System.Web.Razor.xml
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\System.Web.Webpages.xml
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\System.Web.Webpages.Deployment.xml
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\System.Web.Webpages.Razor.xml
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\System.Web.Helpers.xml
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\bin\System.Web.Mvc.xml
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\obj\Debug\MovieProject.csproj.AssemblyReference.cache
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\obj\Debug\MovieProject.csproj.CoreCompileInputs.cache
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\obj\Debug\MovieProject.csproj.CopyComplete
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\obj\Debug\MovieProject.dll
+E:\DotNet\OneMovies\TRANVANSON-10116282-TK14.4\MovieProject\MovieProject\obj\Debug\MovieProject.pdb
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\roslyn\csc.exe
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\roslyn\csc.rsp
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\roslyn\csi.exe
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\roslyn\csi.rsp
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\roslyn\vbc.exe
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\MovieProject.dll.config
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\MovieProject.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\MovieProject.pdb
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\BotDetect.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\BotDetect.Web.Mvc.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\CKFinder.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\Common.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\EntityFramework.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\Facebook.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\Models.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\PagedList.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\PagedList.Mvc.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\System.Data.SQLite.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\System.Linq.Dynamic.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\System.Web.Webpages.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\Common.pdb
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\Models.pdb
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\Models.dll.config
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\EntityFramework.xml
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\Facebook.xml
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\PagedList.xml
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\PagedList.Mvc.xml
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\System.Data.SQLite.xml
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\System.Data.SQLite.dll.config
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\System.Web.Webpages.xml
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\obj\Debug\MovieProject.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\obj\Debug\MovieProject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\obj\Debug\MovieProject.dll
+C:\Users\ADMIN\Downloads\MovieProject\MovieProject\obj\Debug\MovieProject.pdb
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\roslyn\csc.exe
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\roslyn\csc.exe.config
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\roslyn\csc.rsp
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\roslyn\csi.exe
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\roslyn\csi.rsp
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\roslyn\System.AppContext.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\roslyn\vbc.exe
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\roslyn\vbc.exe.config
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\roslyn\vbc.rsp
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\MovieProject.dll.config
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\MovieProject.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\MovieProject.pdb
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\BotDetect.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\BotDetect.Web.Mvc.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\CKFinder.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\Common.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\EntityFramework.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\EntityFramework.SqlServer.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\Facebook.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\Models.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\Newtonsoft.Json.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\PagedList.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\PagedList.Mvc.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\System.Data.SQLite.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\System.Linq.Dynamic.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\System.Web.Helpers.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\System.Web.Mvc.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\System.Web.Razor.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\System.Web.Webpages.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\Common.pdb
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\Models.pdb
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\Models.dll.config
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\EntityFramework.xml
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\EntityFramework.SqlServer.xml
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\Facebook.xml
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\Newtonsoft.Json.xml
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\PagedList.xml
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\PagedList.Mvc.xml
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\System.Data.SQLite.xml
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\System.Data.SQLite.dll.config
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\System.Web.Razor.xml
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\System.Web.Webpages.xml
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\System.Web.Helpers.xml
+C:\Users\khang\Desktop\MovieProject\MovieProject\bin\System.Web.Mvc.xml
+C:\Users\khang\Desktop\MovieProject\MovieProject\obj\Debug\MovieProject.csproj.AssemblyReference.cache
+C:\Users\khang\Desktop\MovieProject\MovieProject\obj\Debug\MovieProject.csproj.CoreCompileInputs.cache
+C:\Users\khang\Desktop\MovieProject\MovieProject\obj\Debug\MovieProject.csproj.CopyComplete
+C:\Users\khang\Desktop\MovieProject\MovieProject\obj\Debug\MovieProject.dll
+C:\Users\khang\Desktop\MovieProject\MovieProject\obj\Debug\MovieProject.pdb
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\roslyn\csc.exe
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\roslyn\csc.exe.config
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\roslyn\csc.rsp
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\roslyn\csi.exe
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\roslyn\csi.rsp
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\roslyn\System.AppContext.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\roslyn\System.Collections.Immutable.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\roslyn\System.IO.FileSystem.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\roslyn\vbc.exe
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\roslyn\vbc.exe.config
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\roslyn\vbc.rsp
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\roslyn\VBCSCompiler.exe
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\roslyn\VBCSCompiler.exe.config
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\MovieProject.dll.config
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\MovieProject.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\MovieProject.pdb
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\BotDetect.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\BotDetect.Web.Mvc.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\CKFinder.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\Common.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\EntityFramework.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\EntityFramework.SqlServer.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\Facebook.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\Models.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\Newtonsoft.Json.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\PagedList.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\PagedList.Mvc.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\System.Data.SQLite.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\System.Linq.Dynamic.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\System.Web.Helpers.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\System.Web.Mvc.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\System.Web.Razor.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\System.Web.Webpages.Deployment.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\System.Web.Webpages.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\System.Web.Webpages.Razor.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\Common.pdb
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\Models.pdb
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\Models.dll.config
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\EntityFramework.xml
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\EntityFramework.SqlServer.xml
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\Facebook.xml
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\Newtonsoft.Json.xml
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\PagedList.xml
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\PagedList.Mvc.xml
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\System.Data.SQLite.xml
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\System.Data.SQLite.dll.config
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\System.Web.Razor.xml
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\System.Web.Webpages.xml
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\System.Web.Webpages.Deployment.xml
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\System.Web.Webpages.Razor.xml
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\System.Web.Helpers.xml
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\bin\System.Web.Mvc.xml
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\obj\Debug\MovieProject.csprojAssemblyReference.cache
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\obj\Debug\MovieProject.csproj.CoreCompileInputs.cache
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\obj\Debug\MovieProject.csproj.CopyComplete
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\obj\Debug\MovieProject.dll
+D:\Visual_Studio\DotNet\MovieProject\MovieProject\MovieProject\obj\Debug\MovieProject.pdb
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\roslyn\csc.exe
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\roslyn\csc.exe.config
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\roslyn\csc.rsp
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\roslyn\csi.exe
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\roslyn\csi.rsp
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\roslyn\System.AppContext.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\roslyn\System.Collections.Immutable.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\roslyn\System.IO.FileSystem.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\roslyn\System.Reflection.Metadata.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\roslyn\vbc.exe
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\roslyn\vbc.exe.config
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\roslyn\vbc.rsp
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\roslyn\VBCSCompiler.exe
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\roslyn\VBCSCompiler.exe.config
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\MovieProject.dll.config
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\MovieProject.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\MovieProject.pdb
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\BotDetect.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\BotDetect.Web.Mvc.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\CKFinder.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\Common.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\EntityFramework.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\EntityFramework.SqlServer.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\Facebook.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\Microsoft.Web.Infrastructure.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\Models.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\Newtonsoft.Json.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\PagedList.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\PagedList.Mvc.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\System.Data.SQLite.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\System.Linq.Dynamic.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\System.Web.Helpers.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\System.Web.Mvc.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\System.Web.Razor.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\System.Web.Webpages.Deployment.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\System.Web.Webpages.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\System.Web.Webpages.Razor.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\Common.pdb
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\Models.pdb
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\Models.dll.config
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\EntityFramework.xml
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\EntityFramework.SqlServer.xml
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\Facebook.xml
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\Newtonsoft.Json.xml
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\PagedList.xml
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\PagedList.Mvc.xml
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\System.Data.SQLite.xml
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\System.Data.SQLite.dll.config
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\System.Web.Razor.xml
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\System.Web.Webpages.xml
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\System.Web.Webpages.Deployment.xml
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\System.Web.Webpages.Razor.xml
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\System.Web.Helpers.xml
+E:\DotNet\Final DotNet\MovieProject\MovieProject\bin\System.Web.Mvc.xml
+E:\DotNet\Final DotNet\MovieProject\MovieProject\obj\Debug\MovieProject.csproj.AssemblyReference.cache
+E:\DotNet\Final DotNet\MovieProject\MovieProject\obj\Debug\MovieProject.csproj.CoreCompileInputs.cache
+E:\DotNet\Final DotNet\MovieProject\MovieProject\obj\Debug\MovieProject.csproj.CopyComplete
+E:\DotNet\Final DotNet\MovieProject\MovieProject\obj\Debug\MovieProject.dll
+E:\DotNet\Final DotNet\MovieProject\MovieProject\obj\Debug\MovieProject.pdb
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\roslyn\csc.exe
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\roslyn\csc.exe.config
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\roslyn\csc.rsp
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\roslyn\csi.exe
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\roslyn\csi.rsp
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\roslyn\System.AppContext.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\roslyn\vbc.exe
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\roslyn\vbc.exe.config
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\roslyn\vbc.rsp
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\MovieProject.dll.config
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\MovieProject.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\MovieProject.pdb
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\BotDetect.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\BotDetect.Web.Mvc.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\CKFinder.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\Common.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\EntityFramework.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\EntityFramework.SqlServer.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\Facebook.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\Models.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\Newtonsoft.Json.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\PagedList.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\PagedList.Mvc.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\System.Data.SQLite.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\System.Linq.Dynamic.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\System.Web.Helpers.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\System.Web.Mvc.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\System.Web.Razor.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\System.Web.Webpages.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\Common.pdb
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\Models.pdb
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\Models.dll.config
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\EntityFramework.xml
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\EntityFramework.SqlServer.xml
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\Facebook.xml
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\Newtonsoft.Json.xml
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\PagedList.xml
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\PagedList.Mvc.xml
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\System.Data.SQLite.xml
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\System.Data.SQLite.dll.config
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\System.Web.Razor.xml
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\System.Web.Webpages.xml
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\System.Web.Helpers.xml
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\bin\System.Web.Mvc.xml
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\obj\Debug\MovieProject.csproj.AssemblyReference.cache
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\obj\Debug\MovieProject.csproj.CoreCompileInputs.cache
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\obj\Debug\MovieProject.csproj.CopyComplete
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\obj\Debug\MovieProject.dll
+C:\Users\khang\Documents\GitHub\nlumovies\MovieProject\MovieProject\obj\Debug\MovieProject.pdb
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\roslyn\csc.exe
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\roslyn\csc.exe.config
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\roslyn\csc.rsp
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\roslyn\csi.exe
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\roslyn\csi.rsp
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\roslyn\System.AppContext.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\roslyn\System.Collections.Immutable.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\roslyn\System.IO.FileSystem.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\roslyn\vbc.exe
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\roslyn\vbc.exe.config
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\roslyn\vbc.rsp
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\roslyn\VBCSCompiler.exe
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\roslyn\VBCSCompiler.exe.config
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\MovieProject.dll.config
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\MovieProject.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\MovieProject.pdb
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\BotDetect.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\BotDetect.Web.Mvc.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\CKFinder.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\Common.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\EntityFramework.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\EntityFramework.SqlServer.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\Facebook.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\Models.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\Newtonsoft.Json.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\PagedList.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\PagedList.Mvc.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\System.Data.SQLite.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\System.Linq.Dynamic.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\System.Web.Helpers.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\System.Web.Mvc.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\System.Web.Razor.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\System.Web.Webpages.Deployment.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\System.Web.Webpages.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\System.Web.Webpages.Razor.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\Common.pdb
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\Models.pdb
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\Models.dll.config
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\EntityFramework.xml
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\EntityFramework.SqlServer.xml
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\Facebook.xml
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\Newtonsoft.Json.xml
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\PagedList.xml
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\PagedList.Mvc.xml
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\System.Data.SQLite.xml
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\System.Data.SQLite.dll.config
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\System.Web.Razor.xml
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\System.Web.Webpages.xml
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\System.Web.Webpages.Deployment.xml
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\System.Web.Webpages.Razor.xml
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\System.Web.Helpers.xml
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\bin\System.Web.Mvc.xml
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\obj\Debug\MovieProject.csprojAssemblyReference.cache
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\obj\Debug\MovieProject.csproj.CoreCompileInputs.cache
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\obj\Debug\MovieProject.csproj.CopyComplete
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\obj\Debug\MovieProject.dll
+D:\Visual_Studio\.NET_DH19DT\MovieFinal\MovieProject\MovieProject\obj\Debug\MovieProject.pdb
